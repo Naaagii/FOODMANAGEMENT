@@ -1,0 +1,322 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jugeric Gatmin\\Desktop\\FoodManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|c:\\users\\jugeric gatmin\\desktop\\foodmanagement\\foodmanagement\\report.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|solutionrelative:foodmanagement\\report.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|c:\\users\\jugeric gatmin\\desktop\\foodmanagement\\foodmanagement\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|solutionrelative:foodmanagement\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|c:\\users\\jugeric gatmin\\desktop\\foodmanagement\\foodmanagement\\report.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|solutionrelative:foodmanagement\\report.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|c:\\users\\jugeric gatmin\\desktop\\foodmanagement\\foodmanagement\\report.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|solutionrelative:foodmanagement\\report.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|C:\\Users\\Jugeric Gatmin\\Desktop\\FoodManagement\\foodmanagement\\registrationvb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|solutionrelative:foodmanagement\\registrationvb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|C:\\Users\\Jugeric Gatmin\\Desktop\\FoodManagement\\foodmanagement\\transac.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|solutionrelative:foodmanagement\\transac.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|C:\\Users\\Jugeric Gatmin\\Desktop\\FoodManagement\\foodmanagement\\transac.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|solutionrelative:foodmanagement\\transac.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|C:\\Users\\Jugeric Gatmin\\Desktop\\FoodManagement\\foodmanagement\\rfid.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|solutionrelative:foodmanagement\\rfid.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|C:\\Users\\Jugeric Gatmin\\Desktop\\FoodManagement\\foodmanagement\\dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|solutionrelative:foodmanagement\\dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|C:\\Users\\Jugeric Gatmin\\Desktop\\FoodManagement\\foodmanagement\\dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|solutionrelative:foodmanagement\\dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|C:\\Users\\Jugeric Gatmin\\Desktop\\FoodManagement\\foodmanagement\\editinfo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|solutionrelative:foodmanagement\\editinfo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|C:\\Users\\Jugeric Gatmin\\Desktop\\FoodManagement\\foodmanagement\\editinfo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|solutionrelative:foodmanagement\\editinfo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|C:\\Users\\Jugeric Gatmin\\Desktop\\FoodManagement\\foodmanagement\\managecus.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|solutionrelative:foodmanagement\\managecus.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|C:\\Users\\Jugeric Gatmin\\Desktop\\FoodManagement\\foodmanagement\\managecus.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|solutionrelative:foodmanagement\\managecus.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|C:\\Users\\Jugeric Gatmin\\Desktop\\FoodManagement\\foodmanagement\\registrationvb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|solutionrelative:foodmanagement\\registrationvb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|C:\\Users\\Jugeric Gatmin\\Desktop\\FoodManagement\\foodmanagement\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|solutionrelative:foodmanagement\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|C:\\Users\\Jugeric Gatmin\\Desktop\\FoodManagement\\foodmanagement\\connection.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|solutionrelative:foodmanagement\\connection.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|FoodManagement||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|C:\\Users\\Jugeric Gatmin\\Desktop\\FoodManagement\\foodmanagement\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{28B89197-3CCC-4C72-A139-FCF0467DED27}|FoodManagement\\FoodManagement.vbproj|solutionrelative:foodmanagement\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "REPORT.vb",
+              "DocumentMoniker": "C:\\Users\\Jugeric Gatmin\\Desktop\\FoodManagement\\FoodManagement\\REPORT.vb",
+              "RelativeDocumentMoniker": "FoodManagement\\REPORT.vb",
+              "ToolTip": "C:\\Users\\Jugeric Gatmin\\Desktop\\FoodManagement\\FoodManagement\\REPORT.vb",
+              "RelativeToolTip": "FoodManagement\\REPORT.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-26T08:33:45.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Report.rdlc [Design]",
+              "DocumentMoniker": "C:\\Users\\Jugeric Gatmin\\Desktop\\FoodManagement\\FoodManagement\\Report.rdlc",
+              "RelativeDocumentMoniker": "FoodManagement\\Report.rdlc",
+              "ToolTip": "C:\\Users\\Jugeric Gatmin\\Desktop\\FoodManagement\\FoodManagement\\Report.rdlc [Design]",
+              "RelativeToolTip": "FoodManagement\\Report.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-11-26T08:23:47.883Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataSet1.xsd",
+              "DocumentMoniker": "C:\\Users\\Jugeric Gatmin\\Desktop\\FoodManagement\\FoodManagement\\DataSet1.xsd",
+              "RelativeDocumentMoniker": "FoodManagement\\DataSet1.xsd",
+              "ToolTip": "C:\\Users\\Jugeric Gatmin\\Desktop\\FoodManagement\\FoodManagement\\DataSet1.xsd",
+              "RelativeToolTip": "FoodManagement\\DataSet1.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-11-26T08:22:01.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "REPORT.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Jugeric Gatmin\\Desktop\\FoodManagement\\FoodManagement\\REPORT.vb",
+              "RelativeDocumentMoniker": "FoodManagement\\REPORT.vb",
+              "ToolTip": "C:\\Users\\Jugeric Gatmin\\Desktop\\FoodManagement\\FoodManagement\\REPORT.vb [Design]",
+              "RelativeToolTip": "FoodManagement\\REPORT.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-26T08:08:06.263Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Registrationvb.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Jugeric Gatmin\\Desktop\\FoodManagement\\FoodManagement\\Registrationvb.vb",
+              "RelativeDocumentMoniker": "FoodManagement\\Registrationvb.vb",
+              "ToolTip": "C:\\Users\\Jugeric Gatmin\\Desktop\\FoodManagement\\FoodManagement\\Registrationvb.vb [Design]",
+              "RelativeToolTip": "FoodManagement\\Registrationvb.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-13T13:26:59.543Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DASHBOARD.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Jugeric Gatmin\\Desktop\\FoodManagement\\FoodManagement\\DASHBOARD.vb",
+              "RelativeDocumentMoniker": "FoodManagement\\DASHBOARD.vb",
+              "ToolTip": "C:\\Users\\Jugeric Gatmin\\Desktop\\FoodManagement\\FoodManagement\\DASHBOARD.vb [Design]",
+              "RelativeToolTip": "FoodManagement\\DASHBOARD.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-21T14:21:20.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DASHBOARD.vb",
+              "DocumentMoniker": "C:\\Users\\Jugeric Gatmin\\Desktop\\FoodManagement\\FoodManagement\\DASHBOARD.vb",
+              "RelativeDocumentMoniker": "FoodManagement\\DASHBOARD.vb",
+              "ToolTip": "C:\\Users\\Jugeric Gatmin\\Desktop\\FoodManagement\\FoodManagement\\DASHBOARD.vb",
+              "RelativeToolTip": "FoodManagement\\DASHBOARD.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-21T14:41:19.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Transac.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Jugeric Gatmin\\Desktop\\FoodManagement\\FoodManagement\\Transac.vb",
+              "RelativeDocumentMoniker": "FoodManagement\\Transac.vb",
+              "ToolTip": "C:\\Users\\Jugeric Gatmin\\Desktop\\FoodManagement\\FoodManagement\\Transac.vb [Design]",
+              "RelativeToolTip": "FoodManagement\\Transac.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-12T12:23:13.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RFID.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Jugeric Gatmin\\Desktop\\FoodManagement\\FoodManagement\\RFID.vb",
+              "RelativeDocumentMoniker": "FoodManagement\\RFID.vb",
+              "ToolTip": "C:\\Users\\Jugeric Gatmin\\Desktop\\FoodManagement\\FoodManagement\\RFID.vb [Design]",
+              "RelativeToolTip": "FoodManagement\\RFID.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-13T14:11:11.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Transac.vb",
+              "DocumentMoniker": "C:\\Users\\Jugeric Gatmin\\Desktop\\FoodManagement\\FoodManagement\\Transac.vb",
+              "RelativeDocumentMoniker": "FoodManagement\\Transac.vb",
+              "ToolTip": "C:\\Users\\Jugeric Gatmin\\Desktop\\FoodManagement\\FoodManagement\\Transac.vb",
+              "RelativeToolTip": "FoodManagement\\Transac.vb",
+              "ViewState": "AgIAACkAAAAAAAAAAAAawC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-12T12:34:35.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EDITINFO.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Jugeric Gatmin\\Desktop\\FoodManagement\\FoodManagement\\EDITINFO.vb",
+              "RelativeDocumentMoniker": "FoodManagement\\EDITINFO.vb",
+              "ToolTip": "C:\\Users\\Jugeric Gatmin\\Desktop\\FoodManagement\\FoodManagement\\EDITINFO.vb [Design]",
+              "RelativeToolTip": "FoodManagement\\EDITINFO.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-12T12:39:59.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EDITINFO.vb",
+              "DocumentMoniker": "C:\\Users\\Jugeric Gatmin\\Desktop\\FoodManagement\\FoodManagement\\EDITINFO.vb",
+              "RelativeDocumentMoniker": "FoodManagement\\EDITINFO.vb",
+              "ToolTip": "C:\\Users\\Jugeric Gatmin\\Desktop\\FoodManagement\\FoodManagement\\EDITINFO.vb",
+              "RelativeToolTip": "FoodManagement\\EDITINFO.vb",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAgwGIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-12T12:54:45.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Registrationvb.vb",
+              "DocumentMoniker": "C:\\Users\\Jugeric Gatmin\\Desktop\\FoodManagement\\FoodManagement\\Registrationvb.vb",
+              "RelativeDocumentMoniker": "FoodManagement\\Registrationvb.vb",
+              "ToolTip": "C:\\Users\\Jugeric Gatmin\\Desktop\\FoodManagement\\FoodManagement\\Registrationvb.vb",
+              "RelativeToolTip": "FoodManagement\\Registrationvb.vb",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAhwDMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-13T14:06:46.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Managecus.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Jugeric Gatmin\\Desktop\\FoodManagement\\FoodManagement\\Managecus.vb",
+              "RelativeDocumentMoniker": "FoodManagement\\Managecus.vb",
+              "ToolTip": "C:\\Users\\Jugeric Gatmin\\Desktop\\FoodManagement\\FoodManagement\\Managecus.vb [Design]",
+              "RelativeToolTip": "FoodManagement\\Managecus.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-28T15:01:54.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Managecus.vb",
+              "DocumentMoniker": "C:\\Users\\Jugeric Gatmin\\Desktop\\FoodManagement\\FoodManagement\\Managecus.vb",
+              "RelativeDocumentMoniker": "FoodManagement\\Managecus.vb",
+              "ToolTip": "C:\\Users\\Jugeric Gatmin\\Desktop\\FoodManagement\\FoodManagement\\Managecus.vb",
+              "RelativeToolTip": "FoodManagement\\Managecus.vb",
+              "ViewState": "AgIAACsAAAAAAAAAAAAhwDwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-28T15:27:34.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Connection.vb",
+              "DocumentMoniker": "C:\\Users\\Jugeric Gatmin\\Desktop\\FoodManagement\\FoodManagement\\Connection.vb",
+              "RelativeDocumentMoniker": "FoodManagement\\Connection.vb",
+              "ToolTip": "C:\\Users\\Jugeric Gatmin\\Desktop\\FoodManagement\\FoodManagement\\Connection.vb",
+              "RelativeToolTip": "FoodManagement\\Connection.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-21T14:00:12.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Jugeric Gatmin\\Desktop\\FoodManagement\\FoodManagement\\Form1.vb",
+              "RelativeDocumentMoniker": "FoodManagement\\Form1.vb",
+              "ToolTip": "C:\\Users\\Jugeric Gatmin\\Desktop\\FoodManagement\\FoodManagement\\Form1.vb [Design]",
+              "RelativeToolTip": "FoodManagement\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-21T12:56:05.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FoodManagement",
+              "DocumentMoniker": "C:\\Users\\Jugeric Gatmin\\Desktop\\FoodManagement\\FoodManagement\\FoodManagement.vbproj",
+              "RelativeDocumentMoniker": "FoodManagement\\FoodManagement.vbproj",
+              "ToolTip": "C:\\Users\\Jugeric Gatmin\\Desktop\\FoodManagement\\FoodManagement\\FoodManagement.vbproj*",
+              "RelativeToolTip": "FoodManagement\\FoodManagement.vbproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-12T12:57:49.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\Jugeric Gatmin\\Desktop\\FoodManagement\\FoodManagement\\Form1.vb",
+              "RelativeDocumentMoniker": "FoodManagement\\Form1.vb",
+              "ToolTip": "C:\\Users\\Jugeric Gatmin\\Desktop\\FoodManagement\\FoodManagement\\Form1.vb",
+              "RelativeToolTip": "FoodManagement\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-21T13:56:55.817Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
